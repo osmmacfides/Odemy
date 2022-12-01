@@ -1,1 +1,1 @@
-# hosted link http://odemy.git/
+# hosted link https://osmmacfides.github.io/Odemy/
